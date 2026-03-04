@@ -117,6 +117,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 | Name     | Description  |
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
+| **IteraTools** | Multi-tool API with native MCP support: image generation, web scraping, TTS, OCR, QR codes, PDF, translation, charts, weather, crypto, and more. Pay-per-use with x402 micropayments. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
 
 ---

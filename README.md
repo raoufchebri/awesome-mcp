@@ -118,6 +118,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
+| **[SeedFlip](https://github.com/bockenstette1/seedflip)** | Give your AI agent design taste. 100+ curated design systems with font pairings, color palettes, and export to Tailwind, shadcn/ui, and CSS. |
 
 ---
 

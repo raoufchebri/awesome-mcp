@@ -101,6 +101,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 | Name     | Description  |
 |---|---|
 | **Stripe** | Provides MCP-based access to the Stripe API for querying payments, customers, and subscriptions. |
+| **[Arch Tools](https://archtools.dev)** | 61 production-ready AI tools (code analysis, web scraping, image generation, NLP, crypto, search) via MCP and REST API. Native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana. |
 
 ---
 

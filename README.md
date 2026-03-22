@@ -118,6 +118,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
+| **[Universal MCP Toolkit](https://github.com/Markgatcha/universal-mcp-toolkit)** | An all-in-one MCP server with 15+ tools (file system, web search, weather, SQLite, system info, and more). Zero-config via `npx universal-mcp-toolkit`, Glama-listed, 100+ monthly npm downloads. |
 
 ---
 

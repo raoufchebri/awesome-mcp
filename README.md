@@ -112,6 +112,14 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 
 ---
 
+### 🔒 Security & Penetration Testing
+
+| Name     | Description  |
+|---|---|
+| **[operant-mcp](https://github.com/operantlabs/operant-mcp)** | Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. |
+
+---
+
 ### ⚙️ Other Integrations
 
 | Name     | Description  |

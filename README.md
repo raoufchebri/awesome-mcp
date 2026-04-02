@@ -112,6 +112,14 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 
 ---
 
+### 🛠️ Developer Utilities
+
+| Name     | Description  |
+|---|---|
+| **[ToolPipe](https://github.com/Aldric-Core/toolpipe-mcp-server)** | 145+ free developer utility APIs (encoding, hashing, UUID, JSON/YAML, regex, IP lookup, DNS, HTTP inspection, and more) available as an MCP server. No signup required. |
+
+---
+
 ### ⚙️ Other Integrations
 
 | Name     | Description  |

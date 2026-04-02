@@ -118,6 +118,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
+| **[ToolPipe](https://github.com/COSAI-Labs/toolpipe-mcp-server)** | 238+ developer tools via MCP: JSON, QR, hash, UUID, DNS, PDF, code review, fake data, regex, JWT, and more. npm: `@cosai-labs/toolpipe-mcp-server`. |
 
 ---
 

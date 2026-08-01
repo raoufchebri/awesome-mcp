@@ -118,6 +118,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
+| **[RunAPI MCP](https://github.com/runapi-ai/mcp)** | Connects AI agents to image, video, music/audio, and model API jobs through MCP. |
 
 ---
 

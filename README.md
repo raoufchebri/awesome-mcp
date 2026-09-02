@@ -118,6 +118,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 |---|---|
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
+| [**BulkPublish**](https://github.com/azeemkafridi/bulkpublish-api) | Batch-oriented social media publishing and scheduling through an API and MCP server; see the [docs](https://app.bulkpublish.com/docs) and [social-media skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills). |
 
 ---
 

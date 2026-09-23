@@ -42,6 +42,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 
 | Name     | Description  |
 |---|---|
+| **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** | Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp |
 | **PostgreSQL** | Provides read-only access to PostgreSQL databases for schema inspection and queries. |
 | **Neon** | Provides interaction with Neon’s serverless PostgreSQL platform. |
 | **Supabase** | MCP server for PostgREST, enabling LLMs to interact with Postgres databases via Supabase. |

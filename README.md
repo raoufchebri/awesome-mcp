@@ -100,6 +100,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 
 | Name     | Description  |
 |---|---|
+| **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** | Local-first payment runtime with a stdio MCP interface for x402 offer inspection, bounded payment preparation, status and receipt recovery on Apple Silicon macOS (Node 24). |
 | **Stripe** | Provides MCP-based access to the Stripe API for querying payments, customers, and subscriptions. |
 
 ---
